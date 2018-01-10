@@ -18,6 +18,7 @@ textarea#display.text-right {
 	padding: 1%;
 	font-family: 'Orbitron';
 	border-radius: 3%;
+	width: 100%;
 }
 
 #calculator {
